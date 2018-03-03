@@ -10,6 +10,10 @@ Below the architecture of the cpu
 Below the set of machine instructions available.
 Note that the only data type accepted is integer and only operations are addition and substraction. More functionalities are implemented by the standard library of the programming language in the second part.
 
+Below a description of the computer architecture.
+
+![](./media/archi.png)
+
 ## Software. 
 Java C# like programming language with a two tier compiler.
 Implementation of a Standard Library/OS to provide functionalities.
