@@ -19,4 +19,8 @@ Java C# like programming language with a two tier compiler.
 Implementation of a Standard Library/OS to provide functionalities.
 
 ## Example of Pong game.
-You can test a program by compiling it with the Compiler.py script, then translating the resulting file with the VMTranslator.py file, and finally producing machine instruction from the resulting file with the assembler.py script. The resulting file of all these operations is a text files comtaining the binary machine instruction in human readable language, it can be use directly by the Hardware Simulator (to download from http://www.nand2tetris.org/software.php) to run the program.
+You can test the program by compiling it with the Compiler.py script `python Compiler.py Pong`
+It creates some file.vm of all classes. Continue with the VMtranslator then assembler.
+The best way to test the program is to use the VMEmulator. This directory can then be loaded in the VMEmulator (to download from http://www.nand2tetris.org/software.php) to run the program.
+
+## References
