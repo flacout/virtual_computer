@@ -30,7 +30,7 @@ Below a description of the computer architecture.
 ![](./media/general_architecture.png)
 
 
-### Instructions and Assemblt
+### Instructions and Assembly
 The instructions are 16 bits long.
 Note that the only data type accepted is integer in two's complement, and only operations are addition and substraction. More functionalities are implemented by the standard library of the programming language in the second part.
 
@@ -45,8 +45,8 @@ The Assembly language associated with this hardware doesn't have a conventional 
 
 
 Below a piece of code in C translated in Assembly and then its machine instructions
-![](./media/example_instruction.png)
-![](./media/example_instruction2.png)
+
+![](./media/example_instruction.png) ![](./media/example_instruction2.png)
 
 
 ## Software. 
