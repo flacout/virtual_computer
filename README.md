@@ -40,7 +40,7 @@ There is two type of instructions:
 
 The Assembly language associated with this hardware doesn't have a conventional syntax, but it is very easy to umderstand. Below the instruction sets and their assembly translation:
 
-![](./media/instructions.png){ width=50% height=50% }
+![](./media/instructions.png){: width=50% height=50% }
 ![](./media/instruction2.png)
 
 
