@@ -46,7 +46,10 @@ The Assembly language associated with this hardware doesn't have a conventional 
 
 Below a piece of code in C translated in Assembly and then its machine instructions
 
-![](./media/example_instruction.png) ![](./media/example_instruction2.png)
+Solarized dark                        |  Solarized Ocean
+:------------------------------------:|:-------------------------------------:
+![](./media/example_instruction.png)  | ![](./media/example_instruction2.png)
+ 
 
 
 ## Software. 
