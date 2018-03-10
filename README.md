@@ -40,8 +40,8 @@ There is two type of instructions:
 
 The Assembly language associated with this hardware doesn't have a conventional syntax, but it is very easy to umderstand. Below the instruction sets and their assembly translation:
 
-![](./media/instructions.png =100x100 )
-![](./media/instruction2.png)
+![](./media/instructions.png)  |  ![](./media/instruction2.png)
+:-----------------------------:|:-------------------------------------:
 
 
 Below a piece of code in C translated in Assembly and then its machine instructions
