@@ -40,15 +40,14 @@ There is two type of instructions:
 
 The Assembly language associated with this hardware doesn't have a conventional syntax, but it is very easy to umderstand. Below the instruction sets and their assembly translation:
 
-![](./media/instructions.png)
+![](./media/instructions.png){ width=50% height=50% }
 ![](./media/instruction2.png)
 
 
 Below a piece of code in C translated in Assembly and then its machine instructions
 
-Solarized dark                        |  Solarized Ocean
+![](./media/example_instruction.png)  |  ![](./media/example_instruction2.png)
 :------------------------------------:|:-------------------------------------:
-![](./media/example_instruction.png)  | ![](./media/example_instruction2.png)
  
 
 
