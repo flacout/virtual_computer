@@ -32,9 +32,9 @@ The CPU is very simple with only two register, one memory addressing register A 
 
 Below a description of the computer architecture.
 
-![](./media/CPU_architecture.png)    |
-:-----------------------------------:|:-----:
-![](./media/general_architecture.png)|
+| ![](./media/CPU_architecture.png)     |
+|-------------------------------------  |
+| ![](./media/general_architecture.png) |
 
 
 ### Instructions and Assembly
